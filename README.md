@@ -1,6 +1,6 @@
 # contacts and messaging app
 
-A new Flutter project allows you to manage contacts and messages exchanged with contacts.
+A Flutter project allows you to manage contacts and messages exchanged with contacts.
 
 ## Getting Started
 
